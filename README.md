@@ -1,6 +1,6 @@
-### Hey there! I'm Salomón Piña aka [Sarquamon][website] for the homies
+### Hey there! I'm Salomón Piña aka [Sarquamon][website] for the homies.
 
-## I'm a Computer science engineer, full-stack dev and part-time youtuber and teacher
+## I'm a Computer science engineer, full-stack dev and part-time youtuber and teacher.
 
 - 🌱 Currently learning everything I can. 😅
 - 🎯 Focusing on what really matters.
@@ -37,6 +37,12 @@
 
 <br/>
 <br/>
+
+---
+
+[![Sarquamon's github stats](https://github-readme-stats.vercel.app/api?username=Sarquamon&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarquamon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://salomonpina.netlify.app/
 [twitter]: https://twitter.com/Sarquamon
