@@ -2,7 +2,7 @@
 
 ## I'm a Computer science engineer, full-stack dev and part-time youtuber and teacher
 
--
+## -
 
 ### Say hi!
 
@@ -10,6 +10,8 @@
 [<img align="left" alt="Sarquamon Twitter" width="22px" height="auto" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/twitter.svg"/>][twitter]
 [<img align="left" alt="Sarquamon Linkedin" width="22px" height="auto" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/linkedin.svg"/>][linkedin]
 [<img align="left" alt="Sarquamon Linkedin" width="22px" height="auto" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/instagram.svg"/>][instagram]
+
+<br />
 
 ### The tools and stuff I use:
 
