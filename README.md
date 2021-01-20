@@ -8,7 +8,7 @@
   - Mostly Go, TS and to become an architect (2021).
 - 🎯 Focusing on what really matters.
 - 🌟 Working on my personal [blog][website] / [website][website].
-- 👷‍♂️ Working for [<img alt="SarquamonRocket" width="40px" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/ibm.svg"/>][ibm]
+- 👷‍♂️ Working for [<img alt="ibmLogo" width="40px" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/ibm.svg"/>][ibm]
 
 ## The tools and stuff I use:
 
@@ -54,6 +54,10 @@
 
 <br />
 
+## 💹 And here are some stats
+
+[![Sarquamon's github stats](https://github-readme-stats-eight-zeta.vercel.app/api?username=Sarquamon&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Come and say hi!
 
 [<img alt="Sarquamon Youtube" width="40rem" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/youtube.svg"/>][youtube]
@@ -64,8 +68,6 @@
 [<img alt="Sarquamon Linkedin" width="40rem" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/dev-dot-to.svg"/>][devto]
 
 <br />
-
-[![Sarquamon's github stats](https://github-readme-stats-eight-zeta.vercel.app/api?username=Sarquamon&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Such a pleasure to meet you! and don't forget...
 
