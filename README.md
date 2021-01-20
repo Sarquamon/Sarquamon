@@ -34,10 +34,23 @@
 
 ## 📖 Some things about me:
 
+<table width="100%"> 
+  <tr>
+    <td width="50%">
+      <br>
+      <p align="center">
+    
 - 🎮 I love videogames and almost every nerdy / geeky stuff. 👾
 - 🍕 I love 4 cheese pizza. 💘
 - 🐶 I love cats and dogs. 🐱
 - HUGE SW fan.
+      </p>
+    </td>
+    <td width="50%">
+    
+&nbsp; <br> [![Spotify](https://novatorem-bay-eta.vercel.app/api/spotify)](https://open.spotify.com/user/12140055484)
+    </td>
+</table>
 
 <br />
 
@@ -52,13 +65,11 @@
 
 <br />
 
+[![Sarquamon's github stats](https://github-readme-stats-eight-zeta.vercel.app/api?username=Sarquamon&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Such a pleasure to meet you! and don't forget...
 
-<img aling="right" alt="Sarquamon maythe4th" width="300rem" height="auto" src="https://media.giphy.com/media/iJVFuKZtYrwCpxLtgc/giphy.gif"/>
-
----
-
-[![Sarquamon's github stats](https://github-readme-stats-eight-zeta.vercel.app/api?username=Sarquamon&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" alt="Sarquamon maythe4th" width="300rem" height="auto" src="https://media.giphy.com/media/iJVFuKZtYrwCpxLtgc/giphy.gif"/>
 
 [website]: https://salomonpina.netlify.app/
 [twitter]: https://twitter.com/Sarquamon
