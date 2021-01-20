@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
 
 #iconTitleMargin{
   margin: 0rem 1rem;
@@ -8,7 +8,7 @@
   margin: 1rem 1rem;
 }
 
-</style>
+</style> -->
 
 # <img id="iconTitleMargin" alt="SarquamonRocket" width="30" height="auto" src="https://media.giphy.com/media/hpFCIpvGxUKgTfjRKl/giphy.gif"/> Hello there! I'm [Sarquamon][website].
 
@@ -20,7 +20,7 @@
   - Mostly Go, TS and to become an architect (2021).
 - 🎯 Focusing on what really matters.
 - 🌟 Working on my personal [blog][website] / [website][website].
-- 👷‍♂️ Working for [<img id="iconsMargin" alt="SarquamonRocket" width="40px" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/ibm.svg"/>][ibm]
+- 👷‍♂️ Working for [<img style="margin: 1rem 1rem;" alt="SarquamonRocket" width="40px" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/ibm.svg"/>][ibm]
 
 ## The tools and stuff I use:
 
@@ -55,7 +55,7 @@
 
 ## Come and say hi!
 
-[<img id="iconsMargin" alt="Sarquamon Youtube" width="40rem" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/youtube.svg"/>][youtube]
+[<img style="margin: 1rem 1rem;" alt="Sarquamon Youtube" width="40rem" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/youtube.svg"/>][youtube]
 [<img id="iconsMargin" alt="Sarquamon Twitter" width="40rem" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/twitter.svg"/>][twitter]
 [<img id="iconsMargin" alt="Sarquamon Instagram" width="40rem" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/linkedin.svg"/>][linkedin]
 [<img id="iconsMargin" alt="Sarquamon Linkedin" width="40rem" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/instagram.svg"/>][instagram]
