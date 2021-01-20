@@ -18,7 +18,7 @@
 [<img alt="Sarquamon Nodejs" width="40rem" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/nodejs.svg"/>][nodejs]
 [<img alt="Sarquamon ReactJs" width="40rem" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/react.svg"/>][reactjs]
 [<img alt="Sarquamon Bootstrap" width="40rem" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/bootstrap.svg"/>][bootstrap]
-[<img alt="Sarquamon Golang" width="40rem" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/golang.svg"/>][golang]
+[<img alt="Sarquamon Golang" width="40rem" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/go.svg"/>][golang]
 [<img alt="Sarquamon Github" width="40rem" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/github.svg"/>][github]
 [<img alt="Sarquamon PostgreSQL" width="40rem" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/postgresql.svg"/>][sql]
 [<img alt="Sarquamon MongoDB" width="40rem" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/mongodb.svg"/>][mongodb]
