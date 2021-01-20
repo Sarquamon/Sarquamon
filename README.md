@@ -1,54 +1,85 @@
-### Hey there! I'm Salomón Piña aka [Sarquamon][website] for the homies.
+# <img alt="SarquamonRocket" width="30px" height="auto" src="https://media.giphy.com/media/hpFCIpvGxUKgTfjRKl/giphy.gif"/> Hello there! I'm [Sarquamon][website].
 
-## I'm a Computer science engineer, full-stack dev and part-time youtuber and teacher.
+## <em>I'm a CS engineer, full-stack software dev, part-time youtuber and a teacher.</em>
 
-- 🌱 Currently learning everything I can. 😅
+### I'm currently...
+
+- 🌱 Learning everything I can.
+  - Mostly Go, TS and to become an architect (2021).
 - 🎯 Focusing on what really matters.
-- 🌟 I'm currently working on my personal blog / website.
-- 🎮 I love videogames and almost every geeky stuff. 👾
+- 🌟 Working on my personal [blog][website] / [website][website].
+- 👷‍♂️ Working for [<img alt="ibmLogo" width="40px" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/ibm.svg"/>][ibm]
 
-### Say hi!
+## The tools and stuff I use:
 
-[<img align="left" alt="Sarquamon Youtube" width="26px" height="auto" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/youtube.svg"/>][youtube]
-[<img align="left" alt="Sarquamon Twitter" width="26px" height="auto" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/twitter.svg"/>][twitter]
-[<img align="left" alt="Sarquamon Linkedin" width="26px" height="auto" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/linkedin.svg"/>][linkedin]
-[<img align="left" alt="Sarquamon Linkedin" width="26px" height="auto" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/instagram.svg"/>][instagram]
+[<img alt="Sarquamon vscode" width="40rem" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/vscode.svg"/>][vscode]
+[<img alt="Sarquamon js" width="40rem" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/javascript.svg"/>][js]
+[<img alt="Sarquamon ts" width="40rem" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/typescript.svg"/>][ts]
+[<img alt="Sarquamon Nodejs" width="40rem" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/nodejs.svg"/>][nodejs]
+[<img alt="Sarquamon ReactJs" width="40rem" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/react.svg"/>][reactjs]
+[<img alt="Sarquamon Bootstrap" width="40rem" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/bootstrap.svg"/>][bootstrap]
+[<img alt="Sarquamon Golang" width="40rem" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/golang.svg"/>][golang]
+[<img alt="Sarquamon Github" width="40rem" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/github.svg"/>][github]
+[<img alt="Sarquamon PostgreSQL" width="40rem" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/postgresql.svg"/>][sql]
+[<img alt="Sarquamon MongoDB" width="40rem" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/mongodb.svg"/>][mongodb]
+[<img alt="Sarquamon GraphQL" width="40rem" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/graphql.svg"/>][graphql]
+[<img alt="Sarquamon Gatsby" width="40rem" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/gatsby.svg"/>][gatsby]
+[<img alt="Sarquamon eslint" width="40rem" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/eslint.svg"/>][eslint]
+[<img alt="Sarquamon Kotlin" width="40rem" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/kotlin.svg"/>][kotlin]
+[<img alt="Sarquamon Deno" width="40rem" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/denoland.svg"/>][deno]
+[<img alt="Sarquamon CSS3" width="40rem" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/css.svg"/>][css]
+[<img alt="Sarquamon HTML5" width="40rem" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/html.svg"/>][html]
+
+<br/>
+
+## 📖 Some things about me:
+
+<table width="100%"> 
+  <tr>
+    <td width="50%">
+      <br>
+      <p align="center">
+    
+- 🎮 I love videogames and almost every nerdy / geeky stuff. 👾
+- 🍕 I love 4 cheese pizza. 💘
+- 🐶 I love cats and dogs. 🐱
+- HUGE SW fan.
+      </p>
+    </td>
+    <td width="50%">
+    
+&nbsp; <br> [![Spotify](https://novatorem-bay-eta.vercel.app/api/spotify)](https://open.spotify.com/user/12140055484)
+    </td>
+</table>
 
 <br />
 
-### The tools and stuff I use:
+## 💹 And here are some stats
 
-[<img align="left" alt="Sarquamon Linkedin" width="26px" height="auto" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>][vscode]
-[<img align="left" alt="Sarquamon Linkedin" width="26px" height="auto" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>][js]
-[<img align="left" alt="Sarquamon Linkedin" width="26px" height="auto" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>][ts]
-[<img align="left" alt="Sarquamon Linkedin" width="26px" height="auto" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>][nodejs]
-[<img align="left" alt="Sarquamon Linkedin" width="26px" height="auto" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>][reactjs]
-[<img align="left" alt="Sarquamon Linkedin" width="26px" height="auto" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>][bootstrap]
-[<img align="left" alt="Sarquamon Linkedin" width="26px" height="auto" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>][html]
-[<img align="left" alt="Sarquamon Linkedin" width="26px" height="auto" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png"/>][eslint]
-[<img align="left" alt="Sarquamon Linkedin" width="26px" height="auto" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"/>][kotlin]
-[<img align="left" alt="Sarquamon Linkedin" width="26px" height="auto" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png"/>][deno]
-[<img align="left" alt="Sarquamon Linkedin" width="26px" height="auto" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>][sql]
-[<img align="left" alt="Sarquamon Linkedin" width="26px" height="auto" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>][mongodb]
-[<img align="left" alt="Sarquamon Linkedin" width="26px" height="auto" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>][css]
-[<img align="left" alt="Sarquamon Linkedin" width="26px" height="auto" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>][github]
-[<img align="left" alt="Sarquamon Linkedin" width="26px" height="auto" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"/>][graphql]
-[<img align="left" alt="Sarquamon Linkedin" width="26px" height="auto" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png"/>][gatsby]
+[![Sarquamon's github stats](https://github-readme-stats-eight-zeta.vercel.app/api?username=Sarquamon&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>
-<br/>
+## Come and say hi!
 
----
+[<img alt="Sarquamon Youtube" width="40rem" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/youtube.svg"/>][youtube]
+[<img alt="Sarquamon Twitter" width="40rem" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/twitter.svg"/>][twitter]
+[<img alt="Sarquamon Instagram" width="40rem" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/linkedin.svg"/>][linkedin]
+[<img alt="Sarquamon Linkedin" width="40rem" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/instagram.svg"/>][instagram]
+[<img alt="Sarquamon Linkedin" width="40rem" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/discord.svg"/>][discord]
+[<img alt="Sarquamon Linkedin" width="40rem" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/dev-dot-to.svg"/>][devto]
 
-[![Sarquamon's github stats](https://github-readme-stats.vercel.app/api?username=Sarquamon&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarquamon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## Such a pleasure to meet you! and don't forget...
+
+<img align="center" alt="Sarquamon maythe4th" width="300rem" height="auto" src="https://media.giphy.com/media/iJVFuKZtYrwCpxLtgc/giphy.gif"/>
 
 [website]: https://salomonpina.netlify.app/
 [twitter]: https://twitter.com/Sarquamon
 [youtube]: https://www.youtube.com/channel/UCQWZ0yHcf4zvehMdgjmuHyw
 [linkedin]: https://www.linkedin.com/in/salom%C3%B3n-p-67bb31b0/
 [instagram]: https://www.instagram.com/sarquamon/
+[discord]: https://www.instagram.com/sarquamon/
+[ibm]: https://www.instagram.com/sarquamon/
 [vscode]: https://code.visualstudio.com/
 [js]: https://www.javascript.com/
 [ts]: https://www.typescriptlang.org/
@@ -65,3 +96,5 @@
 [github]: https://github.com/
 [graphql]: https://graphql.org/
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[golang]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[devto]: https://developer.mozilla.org/en-US/docs/Web/CSS
