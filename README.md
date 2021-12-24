@@ -46,10 +46,6 @@
 - HUGE SW fan.
       </p>
     </td>
-    <td width="50%">
-    
-&nbsp; <br> [![Spotify](https://novatorem-bay-eta.vercel.app/api/spotify)](https://open.spotify.com/user/12140055484)
-    </td>
 </table>
 
 <br />
