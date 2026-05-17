@@ -8,7 +8,7 @@
   - Mostly Go, TS and to become an architect (2021).
 - 🎯 Focusing on what really matters.
 - 🌟 Working on my personal [blog][website] / [website][website].
-- 👷‍♂️ Working for [<img alt="ibmLogo" width="40px" height="auto" src="https://raw.githubusercontent.com/Sarquamon/Sarquamon/master/assets/icons/ibm.svg"/>][ibm]
+- 👷‍♂️ Working for TCS
 
 ## The tools and stuff I use:
 
